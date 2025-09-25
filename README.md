@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Salam, mən [Nihad]!
+
+Mən front-end və UI/UX dizayn sahəsində çalışan bir freelancer
 
 <!--
 **nihadhacizade/nihadhacizade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
