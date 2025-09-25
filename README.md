@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Nihad]!
+# 👋 Hi there, I'm Nihad
 
 I'm a freelance full-stack developer and designer with experience in creating responsive websites, UI/UX design, and web applications. Passionate about solving problems and building user-friendly digital experiences.
 
