@@ -21,5 +21,5 @@ I'm a freelance full-stack developer and designer with experience in creating re
 
 ### 📬 Get in Touch
 - 📧 Email: nihadhacizade14@gmail.com  
-- 📸 Instagram: [@nihadhacizade_l](https://www.instagram.com/nihadhacizade_/#)  
+- 📸 Instagram: [@nihadhacizade_l](https://www.instagram.com/nihadhacizade_#)  
 - 🌐 Website: [yourname.dev](https://yourname.dev)
